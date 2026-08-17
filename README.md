@@ -85,14 +85,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/raviraj12b/raviraj12b/output/trophy.svg" />
-</div>
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
