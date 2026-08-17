@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20there,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20there,%20I'm%20Rajesh%20Borkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
