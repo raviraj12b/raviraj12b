@@ -75,8 +75,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-iota-woad-92.vercel.app/api?username=raviraj12b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-iota-woad-92.vercel.app/api/top-langs/?username=raviraj12b&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="http://github-readme-stats-iota-woad-92.vercel.app/api?username=raviraj12b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="http://github-readme-stats-iota-woad-92.vercel.app/api/top-langs/?username=raviraj12b&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
