@@ -1,12 +1,3 @@
-<!--
-  SETUP NOTES (delete this comment block once you're done editing):
-  1. Replace every "your-username" with your actual GitHub username.
-  2. Replace "Your Name", email, LinkedIn/X/portfolio links with your own.
-  3. Swap the tech badges in the "Tech Stack" section for whatever you actually use.
-  4. This file goes in a special repo named EXACTLY your username (e.g. github.com/your-username/your-username), as a public repo with README.md in it. GitHub auto-shows it on your profile.
-  5. For the animated snake at the bottom, see snake.yml — it needs a one-time GitHub Actions setup (instructions included below).
--->
-
 <div align="center">
 
 <!-- Animated wave banner -->
@@ -18,7 +9,7 @@
 </a>
 
 <!-- Social badges -->
-< align="center">
+<p align="center">
   <a href="mailto:rajeshborkar04@gmail.com">
     <img src="https://img.shields.io/badge/Email-4A00E0?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -28,8 +19,10 @@
   <a href="https://x.com/your-handle">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  < href="https://your-portfolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"raviraj12b
+  <a href="https://your-portfolio.dev">
+    <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -82,12 +75,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raviraj12b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj12b&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-iota-woad-92.vercel.app/api?username=raviraj12b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-iota-woad-92.vercel.app/api/top-langs/?username=raviraj12b&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviraj12b&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=raviraj12b&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -95,7 +88,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raviraj12b&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
