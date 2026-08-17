@@ -26,12 +26,12 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: raviraj12b
-          output_path: dist/trophy.svg
+          file: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: tokyonight
           no-frame: true
-          row: 1
-          column: 7
+          max-cols: 7
+          max-rows: 1
 
       - name: Push generated files to the "output" branch
         uses: crazy-max/ghaction-github-pages@v4
