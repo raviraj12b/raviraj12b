@@ -19,7 +19,7 @@
   <a href="https://x.com/your-handle">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.dev">
+  <a href="https://rajesh-borkar.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -88,27 +88,6 @@
   <a href="https://github.com/raviraj12b/pdf_summarizer">
     <img height="165" src="https://github-readme-stats-iota-woad-92.vercel.app/api/pin/?username=raviraj12b&repo=pdf_summarizer&theme=tokyonight&hide_border=true" />
   </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats-iota-woad-92.vercel.app/api?username=raviraj12b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-iota-woad-92.vercel.app/api/top-langs/?username=raviraj12b&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=raviraj12b&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raviraj12b&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
