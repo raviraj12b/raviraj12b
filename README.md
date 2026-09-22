@@ -72,6 +72,19 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/raviraj12b/student-performance-predictor">
+    <img height="165" src="https://github-readme-stats-iota-woad-92.vercel.app/api/pin/?username=raviraj12b&repo=student-performance-predictor&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/raviraj12b/pdf_summarizer">
+    <img height="165" src="https://github-readme-stats-iota-woad-92.vercel.app/api/pin/?username=raviraj12b&repo=pdf_summarizer&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
